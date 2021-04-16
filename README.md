@@ -10,7 +10,7 @@ At the end of this challenge, I'd like to:
 
 - Knowledgeable on Ansible and Terraform
 - Study for AZ-303 Azure Artirect exam 
-- Build pipelines using Azure DevOps, GitHub actions, and Jenkins
+- Build pipelines using Azure DevOps, GitHub actions, 
 - Basics of containers
 - A bit of Python too
 
