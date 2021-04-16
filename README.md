@@ -63,7 +63,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 28 > [Modules](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [Advanced HCL](Journey/029/Readme.md)
 
-## CloudSkills.io Python for Devops Engineers
+## CloudSkills.io Programming with Python for DevOps Engineers
 - [ ] ☁️ 30 > [Week 1](Journey/030/Readme.md)
 - [ ] ☁️ 31 > [Week 2](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [Week 3](Journey/032/Readme.md)
