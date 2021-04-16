@@ -76,7 +76,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 39 > [Week 10](Journey/039/Readme.md)
 
 ## 
-- [ ] ☁️ 40 > [AWS Cloud Practitioner Certification](Journey/040/Readme.md)
+- [ ] ☁️ 40 > [](Journey/040/Readme.md)
 - [ ] ☁️ 41 > [Week 1](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [Week 2](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [Week 3](Journey/043/Readme.md)
