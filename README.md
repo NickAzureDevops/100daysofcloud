@@ -63,7 +63,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 28 > [Modules](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [Advanced HCL](Journey/029/Readme.md)
 
-## CloudSkills.io Cloud Native Bootcamp
+## CloudSkills.io Python for Devops Engineers
 - [ ] ☁️ 30 > [Week 1](Journey/030/Readme.md)
 - [ ] ☁️ 31 > [Week 2](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [Week 3](Journey/032/Readme.md)
@@ -75,7 +75,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 38 > [Week 9](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [Week 10](Journey/039/Readme.md)
 
-## CloudSkills.io Python for Devops Engineers
+## 
 - [ ] ☁️ 40 > [AWS Cloud Practitioner Certification](Journey/040/Readme.md)
 - [ ] ☁️ 41 > [Week 1](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [Week 2](Journey/042/Readme.md)
