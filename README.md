@@ -72,7 +72,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 38 > [Week 9](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [Week 10](Journey/039/Readme.md)
 
-## CloudSkills.io AWS Architect Bootcamp
+## CloudSkills.io Python for Devops Engineers
 - [ ] ☁️ 40 > [AWS Cloud Practitioner Certification](Journey/040/Readme.md)
 - [ ] ☁️ 41 > [Week 1](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [Week 2](Journey/042/Readme.md)
