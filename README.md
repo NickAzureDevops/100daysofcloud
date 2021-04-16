@@ -25,7 +25,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 6 > [Deploy from GitHub with a Deploy to Azure Button](Journey/007/Readme.md)
 - [ ] ☁️ 7 > [Creating Multiples of Azure Resources with the copy Element](Journey/008/Readme.md)
 - [ ] ☁️ 8 > [Adding Outputs to ARM Templates](Journey/012/Readme.md)
-- [ ] ☁️ 9 > [Adding Outputs to ARM Templates](Journey/013/Readme.md)
+- [ ] ☁️ 9 > [Introduction to Bicep ](Journey/013/Readme.md)
 
 
 ## Ansible
