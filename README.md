@@ -25,12 +25,14 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 6 > [Deploy from GitHub with a Deploy to Azure Button](Journey/007/Readme.md)
 - [ ] ☁️ 7 > [Creating Multiples of Azure Resources with the copy Element](Journey/008/Readme.md)
 - [ ] ☁️ 8 > [Adding Outputs to ARM Templates](Journey/012/Readme.md)
+- [ ] ☁️ 9 > [Adding Outputs to ARM Templates](Journey/013/Readme.md)
+
 
 ## Ansible
 
-- [ ] ☁️ 9 > [Getting Started with Ansible](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [Running Ad-Hoc Commands in Ansible](Journey/010/Readme.md)
-- [ ] ☁️ 11 > [Configuring Deployments with Ansible Playbooks](Journey/011/Readme.md)
+- [ ] ☁️ 10 > [Getting Started with Ansible](Journey/009/Readme.md)
+- [ ] ☁️ 11 > [Running Ad-Hoc Commands in Ansible](Journey/010/Readme.md)
+- [ ] ☁️ 12 > [Configuring Deployments with Ansible Playbooks](Journey/011/Readme.md)
 - [ ] ☁️ 13 > [Deploying Azure Resources with Ansible](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [Deploy Azure VMs using Ansible](Journey/014/Readme.md)
 
