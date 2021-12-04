@@ -8,101 +8,85 @@ My name is Nicholas Chang, and over 3 years expeirnece  working in IT industry w
 
 At the end of this challenge, I'd like to:
 
-- Knowledgeable on Ansible and Terraform
-- Study for AZ-303 Azure Artirect exam 
-- Build pipelines using Azure DevOps, GitHub actions, 
+- Gained Knowledge using Terraform and Azure
+- Build pipelines using Azure DevOps, GitHub actions, and Jenkins
 - Basics of containers
 - A bit of Python too
 
+## Building Azure Infrastructure  
 
-## Automating Resource Deployments to Azure
+- - [ ] ☁️ 1 > [Managing Budgets with Cost Management](Journey/001/Readme.md)
+- - [ ] ☁️ 2 > [Tag Resource using Azure Policy](Journey/002/Readme.md)
+- - [ ] ☁️ 3 > [Enforcing naming azure naming convention](Journey/003/Readme.md)
+- - [ ] ☁️ 4 > [Understanding Availablity set and Availablity zone.](Journey/004/Readme.md)
+- - [ ] ☁️ 4 > [Deploying Mutiple VM using VNet Peering.](Journey/004/Readme.md)
 
-- [x] ☁️ 1 > [Using ARM Templates to Deploy VMs](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Deploy Resources with ARM Templates and PowerShell](Journey/003/Readme.md)
-- [ ] ☁️ 3 > [Configuring ARM Templates with Additional Resources (Part 1)](Journey/004/Readme.md)
-- [ ] ☁️ 4 > [Configuring ARM Templates with Additional Resources (Part 2)](Journey/005/Readme.md)
-- [ ] ☁️ 5 > [Use Azure Key Vault in ARM Templates](Journey/006/Readme.md)
-- [ ] ☁️ 6 > [Deploy from GitHub with a Deploy to Azure Button](Journey/007/Readme.md)
-- [ ] ☁️ 7 > [Creating Multiples of Azure Resources with the copy Element](Journey/008/Readme.md)
-- [ ] ☁️ 8 > [Adding Outputs to ARM Templates](Journey/012/Readme.md)
-
-
-## Bicep 
-- [ ] ☁️ 9 > [Introduction to Bicep ](Journey/013/Readme.md)
-
-
-## Ansible
-
-- [ ] ☁️ 10 > [Getting Started with Ansible](Journey/009/Readme.md)
-- [ ] ☁️ 11 > [Running Ad-Hoc Commands in Ansible](Journey/010/Readme.md)
-- [ ] ☁️ 12 > [Configuring Deployments with Ansible Playbooks](Journey/011/Readme.md)
-- [ ] ☁️ 13 > [Deploying Azure Resources with Ansible](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [Deploy Azure VMs using Ansible](Journey/014/Readme.md)
-
-## Azure Functions
-
-- [ ] ☁️ 15 > [Getting Started with Azure Functions](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [Triggers, Bindings, and Outputs](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [Function App Settings](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [Monitoring Function Apps](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [Function Development and Deployment](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [Azure Function Project](Journey/020/Readme.md)
-
-## Azure Automation
-
-- [ ] ☁️ 21 > [Creating a PowerShell Runbook](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [Managing Runbook Authentication and Modules](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [Configuring Hybrid Worker Groups](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [Azure Automation Project](Journey/024/Readme.md)
 
 ## Terraform
 
-- [ ] ☁️ 25 > [Configurations](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [Terraform State](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [Variables](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [Modules](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [Advanced HCL](Journey/029/Readme.md)
+- [ ] ☁️ 5 > [Get Started with Terraform](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [How to create storage account using terraform](Journey/025/Readme.md)
+- [ ] ☁️ 8 > [Deploying Static site to Azure Storage with Terraform](Journey/027/Readme.md)
+- [ ] ☁️ 7 > [Create a scaleable virtual machine with terraform](Journey/026/Readme.md)
+- [ ] ☁️ 8 > [Deploy Terraform with Azure Devops](Journey/027/Readme.md)
 
-## CloudSkills.io Programming with Python for DevOps Engineers
-- [ ] ☁️ 30 > [Week 1](Journey/030/Readme.md)
-- [ ] ☁️ 31 > [Week 2](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [Week 3](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [Week 4](Journey/033/Readme.md)
-- [ ] ☁️ 34 > [Week 5](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [Week 6](Journey/035/Readme.md)
-- [ ] ☁️ 36 > [Week 7](Journey/036/Readme.md)
-- [ ] ☁️ 37 > [Week 8](Journey/037/Readme.md)
-- [ ] ☁️ 38 > [Week 9](Journey/038/Readme.md)
-- [ ] ☁️ 39 > [Week 10](Journey/039/Readme.md)
+## Devops
 
-## 
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
-- [ ] ☁️ 41 > [Week 1](Journey/041/Readme.md)
-- [ ] ☁️ 42 > [Week 2](Journey/042/Readme.md)
-- [ ] ☁️ 43 > [Week 3](Journey/043/Readme.md)
-- [ ] ☁️ 44 > [Week 4](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [Week 5](Journey/045/Readme.md)
-- [ ] ☁️ 46 > [Week 6](Journey/046/Readme.md)
-- [ ] ☁️ 47 > [Week 7](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [Week 8](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [Week 9](Journey/049/Readme.md)
-- [ ] ☁️ 50 > [Week 10](Journey/050/Readme.md)
+- [ ] ☁️ 25 > [Getting Started with Azure devops](Journey/028/Readme.md)
+- [ ] ☁️ 26 > [Build Azure Pipelines with Azure Devops](Journey/029/Readme.md)
+- [ ] ☁️ 27 > [Build Agents in Azure Pipelines using Azure DevOps](Journey/027/Readme.md)
+- [ ] ☁️ 28 > [Integrating GitHub Enterprise with Azure Pipeline](Journey/028/Readme.md)
+- [ ] ☁️ 29 > [Azure DevOps Integration with Microsoft Teams](Journey/029/Readme.md)
+- [ ] ☁️ 30 > [Integrate MS Teams and Slack with Azure Devops for Alerting](Journey/030/Readme.md)
+- [ ] ☁️ 31 > [Secure Secrets with Azure Devops](Journey/031/Readme.md)
+- [ ] ☁️ 32 > [Devops Kubernetes with Azure Devops](Journey/032/Readme.md)
 
-## TBD
-- [ ] ☁️ 51 > [](Journey/051/Readme.md)
-- [ ] ☁️ 52 > [](Journey/052/Readme.md)
-- [ ] ☁️ 53 > [](Journey/053/Readme.md)
-- [ ] ☁️ 54 > [](Journey/054/Readme.md)
-- [ ] ☁️ 55 > [](Journey/055/Readme.md)
-- [ ] ☁️ 56 > [](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
-- [ ] ☁️ 58 > [](Journey/058/Readme.md)
-- [ ] ☁️ 59 > [](Journey/059/Readme.md)
-- [ ] ☁️ 60 > [](Journey/060/Readme.md)
-- [ ] ☁️ 61 > [](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
-- [ ] ☁️ 63 > [](Journey/063/Readme.md)
-- [ ] ☁️ 64 > [](Journey/064/Readme.md)
+## Automating Resource Deployments to Azure
+
+- [ ] ☁️ 33 > [Using ARM Templates to Deploy VMs](Journey/0033/Readme.md)
+- [ ] ☁️ 34 > [Deploy Resources with ARM Templates and PowerShell](Journey/0034/Readme.md)
+- [ ] ☁️ 35 > [Using Link template with ARM Templates (Part 1)](Journey/0035/Readme.md)
+- [ ] ☁️ 37 > [Use Azure Key Vault in ARM Templates](Journey/0036/Readme.md)
+- [ ] ☁️ 38 > [Deploy from GitHub with a Deploy to Azure Button](Journey/0037/Readme.md)
+
+## Ansible
+
+- [ ] ☁️ 39 > [Getting Started with Ansible](Journey/0038/Readme.md)
+- [ ] ☁️ 40 > [Running Ad-Hoc Commands in Ansible](Journey/0039/Readme.md)
+- [ ] ☁️ 42 > [Configuring Deployments with Ansible Playbooks](Journey/040/Readme.md)
+- [ ] ☁️ 43 > [Deploying Azure Resources with Ansible](Journey/041/Readme.md)
+- [ ] ☁️ 44 > [Deploy Azure VMs using Ansible](Journey/042/Readme.md)
+
+
+## Azure Functions
+
+- [ ] ☁️ 45 > [Getting Started with Azure Functions](Journey/043/Readme.md)
+- [ ] ☁️ 46 > [Triggers, Bindings, and Outputs](Journey/044/Readme.md)
+- [ ] ☁️ 47 > [Function App Settings](Journey/045/Readme.md)
+- [ ] ☁️ 48 > [Monitoring Function Apps](Journey/046/Readme.md)
+- [ ] ☁️ 49 > [Function Development and Deployment](Journey/047/Readme.md)
+- [ ] ☁️ 50 > [Azure Function Project](Journey/048/Readme.md)
+
+## Azure Automation
+
+- [ ] ☁️ 51 > [Creating a PowerShell Runbook](Journey/0049/Readme.md)
+- [ ] ☁️ 52 > [Managing Runbook Authentication and Modules](Journey/050/Readme.md)
+- [ ] ☁️ 53 > [Configuring Hybrid Worker Groups](Journey/051/Readme.md)
+- [ ] ☁️ 54 > [Azure Automation Project](Journey/052/Readme.md)
+
+## CloudSkills.io Cloud Native Bootcamp
+- [ ] ☁️ 55 > [Week 1](Journey/030/Readme.md)
+- [ ] ☁️ 56 > [Week 2](Journey/031/Readme.md)
+- [ ] ☁️ 57 > [Week 3](Journey/032/Readme.md)
+- [ ] ☁️ 58 > [Week 4](Journey/033/Readme.md)
+- [ ] ☁️ 59 > [Week 5](Journey/034/Readme.md)
+- [ ] ☁️ 60 > [Week 6](Journey/035/Readme.md)
+- [ ] ☁️ 61 > [Week 7](Journey/036/Readme.md)
+- [ ] ☁️ 62 > [Week 8](Journey/037/Readme.md)
+- [ ] ☁️ 63 > [Week 9](Journey/038/Readme.md)
+- [ ] ☁️ 64 > [Week 10](Journey/039/Readme.md)
+
+## To be Continued 
 - [ ] ☁️ 65 > [](Journey/065/Readme.md)
 - [ ] ☁️ 66 > [](Journey/066/Readme.md)
 - [ ] ☁️ 67 > [](Journey/067/Readme.md)
