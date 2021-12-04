@@ -4,7 +4,7 @@
 
 ## Nick's Cloud Journey
 
-My name is Nicholas Chang, and over 3 years expeirnece  working in IT industry working as a support engineer. 
+My name is Nicholas Chang and I am a experience support engineer interesting in all things Azure and Devops.  
 
 At the end of this challenge, I'd like to:
 
