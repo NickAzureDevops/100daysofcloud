@@ -70,7 +70,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 38 > [Getting Started with Ansible](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [Running Ad-Hoc Commands in Ansible](Journey/009/Readme.md)
 - [ ] ☁️ 40 > [Configuring Deployments with Ansible Playbooks](Journey/040/Readme.md)
-- [ ] ☁️ 31 > [Deploying Azure Resources with Ansible](Journey/041/Readme.md)
+- [ ] ☁️ 41 > [Deploying Azure Resources with Ansible](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [Deploy Azure VMs using Ansible](Journey/042/Readme.md)
 
 ## Kurbernetes 
