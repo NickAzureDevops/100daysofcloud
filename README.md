@@ -15,8 +15,8 @@ At the end of this challenge, I'd like to:
 ## Building Azure Infrastructure  
 
 - - [ ] ☁️ 1 > [Managing Budgets with Cost Management](Journey/001/Readme.md)
-- - [ ] ☁️ 2 > [Tag Resource using Azure Policy](Journey/002/Readme.md)
-- - [ ] ☁️ 3 > [Enforcing naming azure naming convention](Journey/003/Readme.md)
+- - [ ] ☁️ 2 > [Tag Resource using Azure Policy](Journey/002/Readme.md) - In Progresss
+- - [ ] ☁️ 3 > [Enforcing azure naming convention](Journey/003/Readme.md)
 - - [ ] ☁️ 4 > [Deploy VM using Azure Powershell](Journey/004/Readme.md)
 - - [ ] ☁️ 5 > [NSG VS ASG](Journey/005/Readme.md)
 - - [ ] ☁️ 6 > [Managed Identities](Journey/006/Readme.md)
