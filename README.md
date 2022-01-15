@@ -10,7 +10,7 @@ At the end of this challenge, I'd like to:
 
 - Gained more knowledge using Terraform and Azure
 - Basics of containers
-- A bit of Python too
+- A bit of Powershell too
 
 ## Building Azure Infrastructure  
 
