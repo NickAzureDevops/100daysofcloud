@@ -18,7 +18,7 @@ At the end of this challenge, I'd like to:
 - - [ ] ☁️ 2 > [Tag Resource using Azure Policy](Journey/002/Readme.md) - In Progresss
 - - [ ] ☁️ 3 > [Enforcing azure naming convention](Journey/003/Readme.md)
 - - [ ] ☁️ 4 > [NSG VS ASG](Journey/004/Readme.md)
-- - [ ] ☁️ 5 > [Azure Site to Site VPN](Journey/005/Readme.md)
+- - [ ] ☁️ 5 > [Azure Site to Site VPN with Azure AD](Journey/005/Readme.md)
 - - [ ] ☁️ 6 > [Schedule VM Start/Shutdown Times](Journey/006/Readme.md)
 ## Powershell 
 
