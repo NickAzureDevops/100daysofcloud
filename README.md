@@ -6,7 +6,7 @@
 
 My name is Nicholas Chang, and over 3 years expeirnece  working in IT industry working as a support engineer. 
 
-At the end of this challenge, I'd like to:
+At the end of this challenge, I'd like to: test
 
 - Gained more knowledge using Terraform and Azure
 - Basics of containers
