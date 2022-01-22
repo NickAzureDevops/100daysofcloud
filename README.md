@@ -51,7 +51,7 @@ My name is Nicholas with over 4 years of experience working with Microsoft Stack
 - [ ] ☁️ 30 > [Azure DevOps Integration with Microsoft Teams](Journey/030/Readme.md)
 - [ ] ☁️ 31 > [Integrate MS Teams and Slack with Azure Devops for Alerting](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [Secure Secrets with Azure Devops](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [Devops Kubernetes with Azure Devops](Journey/033/Readme.md)
+- [ ] ☁️ 33 > [Deploy Kubernetes with Azure Devops](Journey/033/Readme.md)
 
 ## Automating Resource Deployments to Azure
 
