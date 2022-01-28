@@ -5,8 +5,8 @@
 ## Nick's Cloud Journey
 My name is Nicholas with over 4 years of experience working with Microsoft Stack technologies including Office 365 and Windows. This idea of this challenge was introduced by the 100daysofcloud community to develop knowledge and gain new skills. At the end of this challenge, I would like to gain more knowledge of the following: 
 
-- Gained more knowledge Azure
-- learn some Terraform
+- Gain more knowledge in Azure
+- Learn Terraform
 - Basics of containers
 - A bit of Powershell too
 
