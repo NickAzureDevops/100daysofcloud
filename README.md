@@ -9,7 +9,6 @@ My name is Nicholas with over 4 years of experience working with Microsoft Stack
 - Learn Terraform
 - Basics of containers
 - A bit of Powershell too
-
 ## Building Azure Infrastructure  
 
 - - [ ] ☁️ 1 > [Managing Budgets with Cost Management](Journey/001/Readme.md)
@@ -19,29 +18,28 @@ My name is Nicholas with over 4 years of experience working with Microsoft Stack
 - - [ ] ☁️ 5 > [Azure Site to Site VPN with Azure AD](Journey/005/Readme.md)
 - - [ ] ☁️ 6 > [Schedule VM Start/Shutdown Times](Journey/006/Readme.md)
 - - [ ] ☁️ 7 > [Application Gateway vs WAF ](Journey/007/Readme.md)
+- - [ ] ☁️ 8 > [Azure Bastion vs Just-in-Time ](Journey/008/Readme.md)
+## Terraform 
 
-## Powershell 
+- [ ] ☁️ 9 > [Get Started with Terraform](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [How to create storage account using terraform](Journey/010/Readme.md)
+- [ ] ☁️ 11 > [Deploying Static site to Azure Storage with Terraform](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [Create a scaleable virtual machine with terraform](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [Deploy Terraform with Azure Devops](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [Deploy ARM template using Terraform](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [Using Terraform using GitHub Actions and Azure](Journey/015/Readme.md)
+- [ ] ☁️ 16 > [Deploy Containers using Terraform](Journey/016/Readme.md)
+## Powershell
 
-- [ ] ☁️ 8 >  [Introduction to Powershell](Journey/008/Readme.md)
-- [ ] ☁️ 9 >  [Month of Launches Part 1](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [Month of Launches Part 2](Journey/010/Readme.md)
-- [ ] ☁️ 11 > [Month of Launches Part 3](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [Month of Launches Part 4](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [Creating Azure Virtual Machines Using PowerShell](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [Azure Point to Site VPN using Powershell](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [Connect to Azure VM using Powershell](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [Deploy Powershell scripts with Azure Automation](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [Using Powershell with Azure Devops](Journey/017/Readme.md)
-## Terraform
-
-- [ ] ☁️ 18 > [Get Started with Terraform](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [How to create storage account using terraform](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [Deploying Static site to Azure Storage with Terraform](Journey/020/Readme.md)
-- [ ] ☁️ 21 > [Create a scaleable virtual machine with terraform](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [Deploy Terraform with Azure Devops](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [Deploy ARM template using Terraform](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [Using Terraform using GitHub Actions and Azure](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [Deploy Containers using Terraform](Journey/025/Readme.md)
+- [ ] ☁️ 17 >  [Introduction to Powershell](Journey/017/Readme.md)
+- [ ] ☁️ 18 > [Month of Launches Part 1](Journey/018/Readme.md)
+- [ ] ☁️ 19 > [Month of Launches Part 2](Journey/019/Readme.md)
+- [ ] ☁️ 20 > [Month of Launches Part 4](Journey/020/Readme.md)
+- [ ] ☁️ 21 > [Creating Azure Virtual Machines Using PowerShell](Journey/021/Readme.md)
+- [ ] ☁️ 22 > [Azure Point to Site VPN using Powershell](Journey/022/Readme.md)
+- [ ] ☁️ 23 > [Connect to Azure VM using Powershell](Journey/023/Readme.md)
+- [ ] ☁️ 24 > [Deploy Powershell scripts with Azure Automation](Journey/024/Readme.md)
+- [ ] ☁️ 25 > [Using Powershell with Azure Devops](Journey/025/Readme.md)
 ## Azure Devops
 
 - [ ] ☁️ 26 > [Getting Started with Azure devops](Journey/026/Readme.md)
@@ -52,7 +50,6 @@ My name is Nicholas with over 4 years of experience working with Microsoft Stack
 - [ ] ☁️ 31 > [Integrate MS Teams and Slack with Azure Devops for Alerting](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [Secure Secrets with Azure Devops](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [Deploy Kubernetes with Azure Devops](Journey/033/Readme.md)
-
 ## Automating Resource Deployments to Azure
 
 - [ ] ☁️ 34 > [Using ARM Templates to Deploy VMs](Journey/034/Readme.md)
@@ -62,7 +59,6 @@ My name is Nicholas with over 4 years of experience working with Microsoft Stack
 - [ ] ☁️ 38 > [Creating a PowerShell Runbook](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [Managing Runbook Authentication and Modules](Journey/39/Readme.md)
 - [ ] ☁️ 40 > [Nested ARM templates in YAML](Journey/040/Readme.md)
-
 ## Kurbernetes 
 
 - [ ] ☁️ 41 > [What is Kurbernetes](Journey/041/Readme.md)
